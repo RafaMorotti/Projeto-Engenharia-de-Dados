@@ -23,6 +23,8 @@ def transformar(saida_leitura):
         'UF': 'uf',
         'Ordem UF': 'ordem_uf',
         'Via de acesso': 'via_acesso',
+        'Via': 'via_acesso',
+        'cod via': 'ordem_via_acesso',
         'Ordem via de acesso': 'ordem_via_acesso',
         'ano': 'ano',
         'Mês': 'mes',

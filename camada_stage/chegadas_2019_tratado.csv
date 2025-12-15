@@ -1,4 +1,4 @@
-continente;cod continente;pais;cod pais;uf;cod uf;Via;cod via;ano;mes;cod mes;chegadas
+continente;cod continente;pais;cod pais;uf;cod uf;via_acesso;ordem_via_acesso;ano;mes;cod mes;chegadas
 África;1;África do Sul;2;Acre;1;Aérea;1;2019;janeiro;1;0
 África;1;África do Sul;2;Acre;1;Aérea;1;2019;fevereiro;2;0
 África;1;África do Sul;2;Acre;1;Aérea;1;2019;março;3;0

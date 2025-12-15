@@ -1,0 +1,895 @@
+pais;ano;chegadas
+Alemanha;2015;224549
+Alemanha;2016;221513
+Alemanha;2017;203045
+Alemanha;2018;209039
+Alemanha;2019;206882
+Alemanha;2020;61149
+Alemanha;2021;29514
+Alemanha;2022;120670
+Alemanha;2023;158582
+Alemanha;2024;182166
+Angola;2015;48297
+Angola;2016;26784
+Angola;2017;23004
+Angola;2018;17861
+Angola;2019;19137
+Angola;2020;3360
+Angola;2021;3346
+Angola;2022;11315
+Angola;2023;13488
+Angola;2024;13520
+Argentina;2015;2079823
+Argentina;2016;2294900
+Argentina;2017;2622327
+Argentina;2018;2498483
+Argentina;2019;1954725
+Argentina;2020;887805
+Argentina;2021;67280
+Argentina;2022;1032762
+Argentina;2023;1882240
+Argentina;2024;1960182
+Arábia Saudita;2015;1533
+Arábia Saudita;2016;1225
+Arábia Saudita;2017;907
+Arábia Saudita;2018;856
+Arábia Saudita;2019;1378
+Arábia Saudita;2020;254
+Arábia Saudita;2021;157
+Arábia Saudita;2022;1003
+Arábia Saudita;2023;1520
+Arábia Saudita;2024;2384
+Austrália;2015;44896
+Austrália;2016;49809
+Austrália;2017;33862
+Austrália;2018;42235
+Austrália;2019;56158
+Austrália;2020;17932
+Austrália;2021;1650
+Austrália;2022;25825
+Austrália;2023;46935
+Austrália;2024;52888
+Bangladesh;2015;1531
+Bangladesh;2016;670
+Bangladesh;2017;539
+Bangladesh;2018;1070
+Bangladesh;2019;600
+Bangladesh;2020;201
+Bangladesh;2021;85
+Bangladesh;2022;237
+Bangladesh;2023;731
+Bangladesh;2024;1171
+Bolívia;2015;108149
+Bolívia;2016;138106
+Bolívia;2017;126781
+Bolívia;2018;126253
+Bolívia;2019;132069
+Bolívia;2020;45449
+Bolívia;2021;26330
+Bolívia;2022;90694
+Bolívia;2023;123803
+Bolívia;2024;129992
+Bulgária;2015;3991
+Bulgária;2016;4264
+Bulgária;2017;2425
+Bulgária;2018;2898
+Bulgária;2019;3252
+Bulgária;2020;1058
+Bulgária;2021;377
+Bulgária;2022;1939
+Bulgária;2023;3345
+Bulgária;2024;4142
+Bélgica;2015;34423
+Bélgica;2016;35577
+Bélgica;2017;28458
+Bélgica;2018;31004
+Bélgica;2019;28178
+Bélgica;2020;7153
+Bélgica;2021;4778
+Bélgica;2022;16645
+Bélgica;2023;21921
+Bélgica;2024;26530
+Cabo Verde;2015;2584
+Cabo Verde;2016;2022
+Cabo Verde;2017;2348
+Cabo Verde;2018;1970
+Cabo Verde;2019;1871
+Cabo Verde;2020;423
+Cabo Verde;2021;281
+Cabo Verde;2022;473
+Cabo Verde;2023;541
+Cabo Verde;2024;568
+Canadá;2015;68293
+Canadá;2016;70103
+Canadá;2017;48951
+Canadá;2018;71160
+Canadá;2019;77043
+Canadá;2020;26950
+Canadá;2021;8077
+Canadá;2022;54252
+Canadá;2023;86591
+Canadá;2024;96540
+Chile;2015;306331
+Chile;2016;311813
+Chile;2017;342143
+Chile;2018;387470
+Chile;2019;391689
+Chile;2020;131174
+Chile;2021;46673
+Chile;2022;202470
+Chile;2023;458576
+Chile;2024;653895
+China;2015;53064
+China;2016;57860
+China;2017;61250
+China;2018;56333
+China;2019;68578
+China;2020;6297
+China;2021;2360
+China;2022;8787
+China;2023;42542
+China;2024;76524
+China, Hong Kong;2015;3347
+China, Hong Kong;2016;4092
+China, Hong Kong;2017;3245
+China, Hong Kong;2018;4170
+China, Hong Kong;2019;4250
+China, Hong Kong;2020;957
+China, Hong Kong;2021;75
+China, Hong Kong;2022;714
+China, Hong Kong;2023;2447
+China, Hong Kong;2024;4052
+Cingapura;2015;6252
+Cingapura;2016;4944
+Cingapura;2017;4721
+Cingapura;2018;6485
+Cingapura;2019;4264
+Cingapura;2020;567
+Cingapura;2021;161
+Cingapura;2022;1663
+Cingapura;2023;3384
+Cingapura;2024;5014
+Colômbia;2015;118866
+Colômbia;2016;135192
+Colômbia;2017;140363
+Colômbia;2018;131596
+Colômbia;2019;126595
+Colômbia;2020;27129
+Colômbia;2021;27892
+Colômbia;2022;84470
+Colômbia;2023;118163
+Colômbia;2024;129501
+Costa Rica;2015;11450
+Costa Rica;2016;12087
+Costa Rica;2017;10568
+Costa Rica;2018;11118
+Costa Rica;2019;11676
+Costa Rica;2020;2831
+Costa Rica;2021;1707
+Costa Rica;2022;7566
+Costa Rica;2023;14366
+Costa Rica;2024;16812
+Croácia;2015;2525
+Croácia;2016;3415
+Croácia;2017;2245
+Croácia;2018;2053
+Croácia;2019;2883
+Croácia;2020;1088
+Croácia;2021;499
+Croácia;2022;1764
+Croácia;2023;2525
+Croácia;2024;3444
+Cuba;2015;6003
+Cuba;2016;6236
+Cuba;2017;5380
+Cuba;2018;4917
+Cuba;2019;3395
+Cuba;2020;818
+Cuba;2021;1165
+Cuba;2022;4072
+Cuba;2023;4183
+Cuba;2024;3848
+Dinamarca;2015;23136
+Dinamarca;2016;24182
+Dinamarca;2017;18593
+Dinamarca;2018;16778
+Dinamarca;2019;17701
+Dinamarca;2020;4471
+Dinamarca;2021;2321
+Dinamarca;2022;10453
+Dinamarca;2023;13055
+Dinamarca;2024;15117
+Egito;2015;3064
+Egito;2016;3435
+Egito;2017;2079
+Egito;2018;1800
+Egito;2019;1800
+Egito;2020;686
+Egito;2021;366
+Egito;2022;1113
+Egito;2023;1460
+Egito;2024;1656
+El Salvador;2015;3695
+El Salvador;2016;3556
+El Salvador;2017;3000
+El Salvador;2018;2802
+El Salvador;2019;2668
+El Salvador;2020;644
+El Salvador;2021;437
+El Salvador;2022;2088
+El Salvador;2023;3917
+El Salvador;2024;4357
+Equador;2015;34899
+Equador;2016;30604
+Equador;2017;34244
+Equador;2018;29374
+Equador;2019;31040
+Equador;2020;7646
+Equador;2021;6593
+Equador;2022;18971
+Equador;2023;33273
+Equador;2024;38493
+Eslováquia;2015;3188
+Eslováquia;2016;4029
+Eslováquia;2017;2232
+Eslováquia;2018;2554
+Eslováquia;2019;2952
+Eslováquia;2020;985
+Eslováquia;2021;366
+Eslováquia;2022;1689
+Eslováquia;2023;2373
+Eslováquia;2024;3253
+Eslovênia;2015;3114
+Eslovênia;2016;3269
+Eslovênia;2017;1934
+Eslovênia;2018;2041
+Eslovênia;2019;2140
+Eslovênia;2020;652
+Eslovênia;2021;520
+Eslovênia;2022;1064
+Eslovênia;2023;1623
+Eslovênia;2024;1960
+Espanha;2015;151029
+Espanha;2016;147846
+Espanha;2017;137202
+Espanha;2018;147159
+Espanha;2019;145325
+Espanha;2020;32665
+Espanha;2021;22828
+Espanha;2022;83745
+Espanha;2023;114096
+Espanha;2024;132484
+Estados Unidos;2015;575796
+Estados Unidos;2016;570350
+Estados Unidos;2017;475232
+Estados Unidos;2018;538532
+Estados Unidos;2019;590520
+Estados Unidos;2020;172105
+Estados Unidos;2021;132182
+Estados Unidos;2022;441007
+Estados Unidos;2023;668478
+Estados Unidos;2024;728537
+Estônia;2015;1863
+Estônia;2016;1998
+Estônia;2017;917
+Estônia;2018;1461
+Estônia;2019;1648
+Estônia;2020;662
+Estônia;2021;253
+Estônia;2022;775
+Estônia;2023;1467
+Estônia;2024;1513
+Filipinas;2015;7993
+Filipinas;2016;7574
+Filipinas;2017;6265
+Filipinas;2018;5627
+Filipinas;2019;6718
+Filipinas;2020;1822
+Filipinas;2021;906
+Filipinas;2022;2786
+Filipinas;2023;4957
+Filipinas;2024;5714
+Finlândia;2015;11943
+Finlândia;2016;11152
+Finlândia;2017;8035
+Finlândia;2018;8033
+Finlândia;2019;6991
+Finlândia;2020;1998
+Finlândia;2021;908
+Finlândia;2022;3476
+Finlândia;2023;5112
+Finlândia;2024;5166
+França;2015;261075
+França;2016;263774
+França;2017;254153
+França;2018;238345
+França;2019;257504
+França;2020;70369
+França;2021;34848
+França;2022;130910
+França;2023;187559
+França;2024;235163
+Gana;2015;1715
+Gana;2016;794
+Gana;2017;906
+Gana;2018;486
+Gana;2019;520
+Gana;2020;122
+Gana;2021;240
+Gana;2022;388
+Gana;2023;687
+Gana;2024;867
+Grécia;2015;7146
+Grécia;2016;7569
+Grécia;2017;4960
+Grécia;2018;5390
+Grécia;2019;6931
+Grécia;2020;1571
+Grécia;2021;928
+Grécia;2022;4986
+Grécia;2023;7488
+Grécia;2024;9176
+Guatemala;2015;6112
+Guatemala;2016;6439
+Guatemala;2017;4965
+Guatemala;2018;5130
+Guatemala;2019;5644
+Guatemala;2020;941
+Guatemala;2021;1015
+Guatemala;2022;4677
+Guatemala;2023;7663
+Guatemala;2024;8909
+Guiana;2015;4551
+Guiana;2016;5289
+Guiana;2017;5038
+Guiana;2018;4253
+Guiana;2019;4885
+Guiana;2020;761
+Guiana;2021;271
+Guiana;2022;2921
+Guiana;2023;5102
+Guiana;2024;6399
+Guiana Francesa;2015;13
+Guiana Francesa;2016;8
+Guiana Francesa;2017;1321
+Guiana Francesa;2018;13
+Guiana Francesa;2019;4
+Guiana Francesa;2020;1
+Guiana Francesa;2021;13
+Guiana Francesa;2022;2
+Guiana Francesa;2023;10
+Guiana Francesa;2024;4
+Haiti;2015;1506
+Haiti;2016;1174
+Haiti;2017;1429
+Haiti;2018;1507
+Haiti;2019;1675
+Haiti;2020;720
+Haiti;2021;484
+Haiti;2022;565
+Haiti;2023;807
+Haiti;2024;836
+Holanda;2015;66870
+Holanda;2016;72268
+Holanda;2017;59272
+Holanda;2018;62651
+Holanda;2019;59752
+Holanda;2020;16532
+Holanda;2021;9080
+Holanda;2022;35488
+Holanda;2023;45917
+Holanda;2024;54273
+Honduras;2015;3185
+Honduras;2016;2826
+Honduras;2017;2096
+Honduras;2018;2729
+Honduras;2019;2383
+Honduras;2020;541
+Honduras;2021;407
+Honduras;2022;1610
+Honduras;2023;2951
+Honduras;2024;3535
+Hungria;2015;7058
+Hungria;2016;7249
+Hungria;2017;3723
+Hungria;2018;6771
+Hungria;2019;6854
+Hungria;2020;2817
+Hungria;2021;932
+Hungria;2022;3810
+Hungria;2023;5945
+Hungria;2024;6964
+Indonésia;2015;2315
+Indonésia;2016;2152
+Indonésia;2017;1568
+Indonésia;2018;2026
+Indonésia;2019;3934
+Indonésia;2020;619
+Indonésia;2021;357
+Indonésia;2022;2387
+Indonésia;2023;3186
+Indonésia;2024;6035
+Irlanda;2015;17651
+Irlanda;2016;16428
+Irlanda;2017;13363
+Irlanda;2018;23917
+Irlanda;2019;34973
+Irlanda;2020;10419
+Irlanda;2021;4478
+Irlanda;2022;30216
+Irlanda;2023;35983
+Irlanda;2024;42832
+Irã;2015;3916
+Irã;2016;4179
+Irã;2017;3776
+Irã;2018;2254
+Irã;2019;1512
+Irã;2020;417
+Irã;2021;366
+Irã;2022;2222
+Irã;2023;2635
+Irã;2024;4438
+Israel;2015;35891
+Israel;2016;34962
+Israel;2017;29086
+Israel;2018;33326
+Israel;2019;38391
+Israel;2020;18195
+Israel;2021;2898
+Israel;2022;21488
+Israel;2023;26063
+Israel;2024;16485
+Itália;2015;202015
+Itália;2016;181493
+Itália;2017;171654
+Itália;2018;175763
+Itália;2019;182587
+Itália;2020;45646
+Itália;2021;18907
+Itália;2022;86766
+Itália;2023;129447
+Itália;2024;154495
+Japão;2015;70102
+Japão;2016;79754
+Japão;2017;60342
+Japão;2018;63708
+Japão;2019;78914
+Japão;2020;20476
+Japão;2021;1904
+Japão;2022;17635
+Japão;2023;42341
+Japão;2024;61129
+Letônia;2015;1582
+Letônia;2016;1884
+Letônia;2017;1063
+Letônia;2018;1081
+Letônia;2019;1289
+Letônia;2020;517
+Letônia;2021;279
+Letônia;2022;833
+Letônia;2023;1210
+Letônia;2024;1499
+Lituânia;2015;2411
+Lituânia;2016;3213
+Lituânia;2017;1613
+Lituânia;2018;1804
+Lituânia;2019;2478
+Lituânia;2020;791
+Lituânia;2021;404
+Lituânia;2022;1454
+Lituânia;2023;2037
+Lituânia;2024;2615
+Luxemburgo;2015;1728
+Luxemburgo;2016;1620
+Luxemburgo;2017;1817
+Luxemburgo;2018;1969
+Luxemburgo;2019;1849
+Luxemburgo;2020;470
+Luxemburgo;2021;498
+Luxemburgo;2022;1393
+Luxemburgo;2023;1928
+Luxemburgo;2024;2340
+Líbano;2015;3076
+Líbano;2016;3067
+Líbano;2017;2577
+Líbano;2018;2860
+Líbano;2019;3692
+Líbano;2020;1051
+Líbano;2021;944
+Líbano;2022;1775
+Líbano;2023;2404
+Líbano;2024;2569
+Malásia;2015;5183
+Malásia;2016;4233
+Malásia;2017;3442
+Malásia;2018;4818
+Malásia;2019;3301
+Malásia;2020;682
+Malásia;2021;211
+Malásia;2022;1386
+Malásia;2023;2567
+Malásia;2024;3873
+Marrocos;2015;4838
+Marrocos;2016;4902
+Marrocos;2017;5986
+Marrocos;2018;5241
+Marrocos;2019;4596
+Marrocos;2020;1143
+Marrocos;2021;510
+Marrocos;2022;1970
+Marrocos;2023;4035
+Marrocos;2024;4854
+Moçambique;2015;3758
+Moçambique;2016;2344
+Moçambique;2017;3172
+Moçambique;2018;4563
+Moçambique;2019;5663
+Moçambique;2020;1753
+Moçambique;2021;1233
+Moçambique;2022;3378
+Moçambique;2023;3900
+Moçambique;2024;4156
+México;2015;90361
+México;2016;94609
+México;2017;81778
+México;2018;79891
+México;2019;82921
+México;2020;18068
+México;2021;12731
+México;2022;52171
+México;2023;82324
+México;2024;99137
+Nicarágua;2015;1604
+Nicarágua;2016;1325
+Nicarágua;2017;1027
+Nicarágua;2018;1335
+Nicarágua;2019;1350
+Nicarágua;2020;270
+Nicarágua;2021;185
+Nicarágua;2022;1048
+Nicarágua;2023;1581
+Nicarágua;2024;1739
+Nigéria;2015;3484
+Nigéria;2016;2318
+Nigéria;2017;1900
+Nigéria;2018;1687
+Nigéria;2019;1589
+Nigéria;2020;371
+Nigéria;2021;387
+Nigéria;2022;1296
+Nigéria;2023;1742
+Nigéria;2024;1627
+Noruega;2015;25699
+Noruega;2016;20611
+Noruega;2017;16934
+Noruega;2018;18249
+Noruega;2019;17132
+Noruega;2020;4483
+Noruega;2021;2091
+Noruega;2022;10291
+Noruega;2023;12083
+Noruega;2024;13869
+Nova Zelândia;2015;10301
+Nova Zelândia;2016;15622
+Nova Zelândia;2017;9468
+Nova Zelândia;2018;12320
+Nova Zelândia;2019;13536
+Nova Zelândia;2020;3596
+Nova Zelândia;2021;460
+Nova Zelândia;2022;5795
+Nova Zelândia;2023;9832
+Nova Zelândia;2024;11030
+Outros países;2015;30969
+Outros países;2016;33230
+Outros países;2017;20531
+Outros países;2018;22116
+Outros países;2019;22070
+Outros países;2020;5737
+Outros países;2021;4687
+Outros países;2022;17647
+Outros países;2023;25941
+Outros países da América Central e Caribe;2024;2901
+Outros países da Europa;2024;6161
+Outros países da Oceania;2024;115
+Outros países da África;2024;10184
+Outros países da Ásia;2024;13440
+Panamá;2015;10081
+Panamá;2016;8261
+Panamá;2017;14406
+Panamá;2018;9448
+Panamá;2019;9264
+Panamá;2020;1744
+Panamá;2021;1428
+Panamá;2022;6064
+Panamá;2023;9912
+Panamá;2024;11125
+Paquistão;2015;2235
+Paquistão;2016;2296
+Paquistão;2017;1121
+Paquistão;2018;1306
+Paquistão;2019;1071
+Paquistão;2020;336
+Paquistão;2021;220
+Paquistão;2022;644
+Paquistão;2023;731
+Paquistão;2024;952
+Paraguai;2015;301831
+Paraguai;2016;316714
+Paraguai;2017;336646
+Paraguai;2018;356897
+Paraguai;2019;406526
+Paraguai;2020;122981
+Paraguai;2021;132126
+Paraguai;2022;308234
+Paraguai;2023;424460
+Paraguai;2024;465020
+Países não especificados;2015;142
+Países não especificados;2016;90
+Países não especificados;2017;46
+Países não especificados;2018;46
+Países não especificados;2019;36
+Países não especificados;2020;9
+Países não especificados;2021;10
+Países não especificados;2022;43
+Países não especificados;2023;72
+Países não especificados;2024;56
+Peru;2015;113078
+Peru;2016;114276
+Peru;2017;115320
+Peru;2018;121326
+Peru;2019;135880
+Peru;2020;33895
+Peru;2021;13077
+Peru;2022;61634
+Peru;2023;99353
+Peru;2024;131368
+Polônia;2015;24363
+Polônia;2016;23041
+Polônia;2017;20452
+Polônia;2018;21677
+Polônia;2019;22041
+Polônia;2020;8098
+Polônia;2021;3449
+Polônia;2022;11513
+Polônia;2023;19833
+Polônia;2024;25967
+Portugal;2015;162305
+Portugal;2016;149968
+Portugal;2017;144095
+Portugal;2018;145816
+Portugal;2019;176229
+Portugal;2020;51028
+Portugal;2021;38704
+Portugal;2022;149747
+Portugal;2023;182463
+Portugal;2024;218354
+Quênia;2015;1214
+Quênia;2016;1491
+Quênia;2017;783
+Quênia;2018;880
+Quênia;2019;785
+Quênia;2020;138
+Quênia;2021;52
+Quênia;2022;652
+Quênia;2023;608
+Quênia;2024;909
+Reino Unido;2015;189269
+Reino Unido;2016;202671
+Reino Unido;2017;185858
+Reino Unido;2018;154586
+Reino Unido;2019;163425
+Reino Unido;2020;48595
+Reino Unido;2021;9809
+Reino Unido;2022;87909
+Reino Unido;2023;130239
+Reino Unido;2024;153754
+República Dominicana;2015;5296
+República Dominicana;2016;4421
+República Dominicana;2017;3636
+República Dominicana;2018;4054
+República Dominicana;2019;2997
+República Dominicana;2020;533
+República Dominicana;2021;896
+República Dominicana;2022;5665
+República Dominicana;2023;9323
+República Dominicana;2024;12833
+República Tcheca;2015;8537
+República Tcheca;2016;8346
+República Tcheca;2017;4742
+República Tcheca;2018;5597
+República Tcheca;2019;7442
+República Tcheca;2020;2553
+República Tcheca;2021;1107
+República Tcheca;2022;3747
+República Tcheca;2023;5457
+República Tcheca;2024;7152
+República da Coreia;2015;50725
+República da Coreia;2016;50312
+República da Coreia;2017;42997
+República da Coreia;2018;33845
+República da Coreia;2019;39321
+República da Coreia;2020;11520
+República da Coreia;2021;2614
+República da Coreia;2022;10394
+República da Coreia;2023;19808
+República da Coreia;2024;28435
+Romênia;2015;7394
+Romênia;2016;6985
+Romênia;2017;5499
+Romênia;2018;5927
+Romênia;2019;9749
+Romênia;2020;2924
+Romênia;2021;1420
+Romênia;2022;5456
+Romênia;2023;8343
+Romênia;2024;10558
+Rússia;2015;25644
+Rússia;2016;23894
+Rússia;2017;18820
+Rússia;2018;19224
+Rússia;2019;24931
+Rússia;2020;8868
+Rússia;2021;6776
+Rússia;2022;17134
+Rússia;2023;24163
+Rússia;2024;31009
+Suriname;2015;4999
+Suriname;2016;9169
+Suriname;2017;6096
+Suriname;2018;5836
+Suriname;2019;8776
+Suriname;2020;1359
+Suriname;2021;431
+Suriname;2022;4389
+Suriname;2023;6784
+Suriname;2024;11873
+Suécia;2015;34096
+Suécia;2016;32432
+Suécia;2017;23760
+Suécia;2018;26498
+Suécia;2019;26769
+Suécia;2020;9484
+Suécia;2021;3952
+Suécia;2022;12457
+Suécia;2023;18049
+Suécia;2024;20776
+Suíça;2015;70319
+Suíça;2016;69074
+Suíça;2017;69484
+Suíça;2018;70040
+Suíça;2019;63826
+Suíça;2020;17063
+Suíça;2021;13568
+Suíça;2022;38371
+Suíça;2023;50359
+Suíça;2024;58092
+Sérvia;2015;2988
+Sérvia;2016;3286
+Sérvia;2017;1819
+Sérvia;2018;1811
+Sérvia;2019;2352
+Sérvia;2020;787
+Sérvia;2021;495
+Sérvia;2022;1695
+Sérvia;2023;2250
+Sérvia;2024;2961
+Síria;2015;4234
+Síria;2016;2124
+Síria;2017;2333
+Síria;2018;1143
+Síria;2019;1130
+Síria;2020;249
+Síria;2021;152
+Síria;2022;409
+Síria;2023;676
+Síria;2024;588
+Tailândia;2015;4259
+Tailândia;2016;4055
+Tailândia;2017;3186
+Tailândia;2018;4146
+Tailândia;2019;4025
+Tailândia;2020;760
+Tailândia;2021;207
+Tailândia;2022;1906
+Tailândia;2023;3049
+Tailândia;2024;4112
+Taiwan;2015;10608
+Taiwan;2016;6982
+Taiwan;2017;5135
+Taiwan;2018;6096
+Taiwan;2019;4721
+Taiwan;2020;1067
+Taiwan;2021;121
+Taiwan;2022;681
+Taiwan;2023;1869
+Taiwan;2024;4087
+Trinidad e Tobago;2015;2193
+Trinidad e Tobago;2016;1767
+Trinidad e Tobago;2017;1009
+Trinidad e Tobago;2018;1049
+Trinidad e Tobago;2019;1087
+Trinidad e Tobago;2020;143
+Trinidad e Tobago;2021;84
+Trinidad e Tobago;2022;520
+Trinidad e Tobago;2023;863
+Trinidad e Tobago;2024;820
+Tunísia;2015;1725
+Tunísia;2016;2032
+Tunísia;2017;1374
+Tunísia;2018;1488
+Tunísia;2019;1728
+Tunísia;2020;551
+Tunísia;2021;422
+Tunísia;2022;1049
+Tunísia;2023;1631
+Tunísia;2024;1710
+Turquia;2015;15774
+Turquia;2016;15825
+Turquia;2017;14417
+Turquia;2018;11711
+Turquia;2019;11914
+Turquia;2020;4066
+Turquia;2021;2018
+Turquia;2022;7467
+Turquia;2023;14928
+Turquia;2024;25117
+Ucrânia;2015;5884
+Ucrânia;2016;7126
+Ucrânia;2017;4391
+Ucrânia;2018;4851
+Ucrânia;2019;6193
+Ucrânia;2020;3254
+Ucrânia;2021;2052
+Ucrânia;2022;3299
+Ucrânia;2023;3963
+Ucrânia;2024;4795
+Uruguai;2015;267321
+Uruguai;2016;284113
+Uruguai;2017;328098
+Uruguai;2018;348336
+Uruguai;2019;364830
+Uruguai;2020;113714
+Uruguai;2021;11575
+Uruguai;2022;180064
+Uruguai;2023;334703
+Uruguai;2024;388464
+Venezuela;2015;80488
+Venezuela;2016;61160
+Venezuela;2017;53950
+Venezuela;2018;40761
+Venezuela;2019;40160
+Venezuela;2020;11636
+Venezuela;2021;2499
+Venezuela;2022;3750
+Venezuela;2023;5777
+Venezuela;2024;8637
+África do Sul;2015;27260
+África do Sul;2016;24065
+África do Sul;2017;20768
+África do Sul;2018;21284
+África do Sul;2019;24869
+África do Sul;2020;4040
+África do Sul;2021;708
+África do Sul;2022;5403
+África do Sul;2023;8834
+África do Sul;2024;15280
+Áustria;2015;26575
+Áustria;2016;23531
+Áustria;2017;20358
+Áustria;2018;29643
+Áustria;2019;22051
+Áustria;2020;6077
+Áustria;2021;2892
+Áustria;2022;11211
+Áustria;2023;15649
+Áustria;2024;18469
+Índia;2015;23259
+Índia;2016;23246
+Índia;2017;16916
+Índia;2018;16719
+Índia;2019;16958
+Índia;2020;2953
+Índia;2021;1172
+Índia;2022;7528
+Índia;2023;13130
+Índia;2024;15274

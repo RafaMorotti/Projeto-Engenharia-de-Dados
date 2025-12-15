@@ -1,4 +1,4 @@
-continente;cod continente;pais;cod pais;uf;cod uf;Via;cod via;ano;mes;cod mes;chegadas
+continente;cod continente;pais;cod pais;uf;cod uf;via_acesso;ordem_via_acesso;ano;mes;cod mes;chegadas
 América do Sul;4;Peru;34;Acre;1;Aéreo;1;2023;Novembro;11;0
 América do Sul;4;Peru;34;Acre;1;Aéreo;1;2023;Novembro;11;0
 Ásia;5;Outros países;56;Outras Unidades da Federação;99;Aéreo;1;2023;Junho;6;0
